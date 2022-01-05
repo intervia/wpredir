@@ -2,7 +2,7 @@
 /**
  * @name WordPress redir directory installation to root
  * @version 1.0.0 (2022-01-05)
- * @author Juan cimadevilla
+ * @author Juan Cimadevilla
  * @license MIT
  * @copyright Intervia IT (intervia.com)
  * 
