@@ -5,6 +5,7 @@
  * @author Juan Cimadevilla
  * @license MIT
  * @copyright Intervia IT (intervia.com)
+ * @link https://github.com/intervia/wpredir
  * 
  * 1.- Edit wp-config.php and add to the beginning:
  * $_oldir = 'shop';
