@@ -8,7 +8,7 @@
  * 
  * 1.- Edit wp-config.php and add to the beginning:
  * $_oldir = 'shop';
- * incluce "redirect";
+ * incluce "redirect.php";
  * 
  * 2.- Upload this file to your WP root
  * 
